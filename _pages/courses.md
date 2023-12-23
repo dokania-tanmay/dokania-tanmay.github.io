@@ -2,11 +2,13 @@
 layout: page
 permalink: /courses/
 title: courses
-description: Materials for courses you taught. Replace this text with your description.
+description: It contains about the courses that I have done and the notes I made.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Course list:
+- '''EE 605''' Error Correcting Codes (notes: [pdf](https://dokania-tanmay.github.io/assets/pdf/ee605.pdf)|[sdocx](https://dokania-tanmay.github.io/assets/pdf/ee605.sdocx))
+- '''EE 638''' Estimation and Identification (notes: [pdf](https://dokania-tanmay.github.io/assets/pdf/ee638.pdf)|[sdocx](https://dokania-tanmay.github.io/assets/pdf/ee638.sdocx))
+- '''SC 631''' Games and Information (notes: [pdf](https://dokania-tanmay.github.io/assets/pdf/sc631.pdf)|[sdocx](https://dokania-tanmay.github.io/assets/pdf/sc631.sdocx))
 
-Organize your courses by years, topics, or universities, however you like!
