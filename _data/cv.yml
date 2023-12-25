@@ -2,82 +2,59 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Tanmay Dokania
     - name: Languages
-      value: English, German
+      value: English, Hindi
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelors of Technology
+      institution: Indian Institute of Technology, Bombay
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Electrical Engineering (GPA 9.90/10)
+        - title: Minor
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+            - Systems and Control (SysCon)
+            - Machine Intelligence and Data Science (CMInDS)
+
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant
+      institution: Indian Institute of Technology, Bombay
+      year: 2022-23
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Project - Consensus for Nonholonomic Multiagent System using Projected Gradients
+        - Guide - Prof. Ravi Banavar
+        - To extend geometric controllers for single agent to multiagent systems and achieve position-consensus
+
+    - title: Research Intern
+      institution: University of Toronto
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Project - Safety Guarantees in Imitation Learning
+        - Guide - Prof. Florian Shkurti
+        - To design an online filter for the control inputs to avoid unsafe states, which improves iteratively
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Research Assistant
+      institution: Indian Institute of Technology, Bombay
+      year: 2022-23
       description:
+        - Project -  Bearing-based Formation Control for Obstacle Avoidance
+        - Guide - Prof. Dwaipayan Mukherjee
+        - To design decentralized controllers for obstacle avoidance based on the measured bearing of the obstacles while retaining a desired formation.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Research Intern
+      institution: Indian Space Research Organisation (ISRO)
+      year: 2023
+      description:
+        - Project - Angular Momentum-based Steering Laws for Control of CMGs
+        - Guide - Dr. Abhilash Mony
+        - To analyze existing angular momentum-based approaches for singularity avoidance of Control Moment Gyrscopes, which are observed when the space of torque inputs reduces dimensionally
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list

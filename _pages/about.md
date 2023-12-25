@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: about me
+subtitle: <i>This page is still under construction.</i>
 
 profile:
   align: right
@@ -24,5 +24,6 @@ I have been fortunate enough to collaborate with [Prof. Ravi Banavar](https://si
 
 Besides my academic pursuits, I find pleasure in playing the guitar and singing. From time to time, I share my musical videos on [YouTube](https://www.youtube.com/channel/UC8ZHIwbr0UDpE_8VIRruQgQ).
 
+You can find [my CV](https://dokania-tanmay.github.io/assets/pdf/tanmay_cv.pdf) or [my notes](https://dokania-tanmay.github.io/courses/) here.
 
 <a href="https://info.flagcounter.com/eGTb"><img src="https://s11.flagcounter.com/count2/eGTb/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
