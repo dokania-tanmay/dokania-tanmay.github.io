@@ -20,7 +20,9 @@ Hey! I am a final year undergraduate at the Electrical Engineering Department of
 
 My research interests lies in the use of learning-based control for dynamical systems. I am inclined for the incorporation of ideas from geometry for the design of controllers and estimators which are safe, scalable and efficient.
 
-I enjoy playing the guitar and singing, and I occasionally share my videos on [YouTube](https://www.youtube.com/channel/UC8ZHIwbr0UDpE_8VIRruQgQ).
+I have been fortunate enough to collaborate with [Prof. Ravi Banavar](https://sites.google.com/view/ravibanavar/home) on the control of nonholonomic agents using ideas from geometry, with [Prof. Florian Shkurti](https://www.cs.toronto.edu/~florian/) on formulating safety guarantees for imitation learning, and with [Prof. Dwaipayan Mukherjee](https://www.ee.iitb.ac.in/web/people/dwaipayan-mukherjee/) on formation control for collision avoidance based on bearing measurements.
+
+Besides my academic pursuits, I find pleasure in playing the guitar and singing. From time to time, I share my musical videos on [YouTube](https://www.youtube.com/channel/UC8ZHIwbr0UDpE_8VIRruQgQ).
 
 
 <a href="https://info.flagcounter.com/eGTb"><img src="https://s11.flagcounter.com/count2/eGTb/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>

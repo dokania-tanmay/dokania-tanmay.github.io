@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - dokania-tanmay
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - dokania-tanmay/nanosaur_gas_detection
+  - dokania-tanmay/RISC_MulticycleProcessor
+  - dokania-tanmay/lie_group_estimation
+  - kalp121212/DS303_Project
+  - pringlesinghal/DS203-Project
