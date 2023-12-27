@@ -21,6 +21,7 @@ Below are some notes that I have prepared for certain courses:
 Disclaimer: *The notes have not been verified by the Professors and could have errors. Incase you find any, feel free to reach out to me via email.*
 
 ## Relevant Coursework
+
 ### Control Theory
 - Nonlinear Dynamical Systems
 - Estimation and Identification
@@ -29,11 +30,13 @@ Disclaimer: *The notes have not been verified by the Professors and could have e
 - Optimal Control *(in progress)*
 - Social Learning and Herding *(in progress)*
 - Analytical and Geometric Dynamics
+
 ### Optimization and Learning
 - Foundations of Intelligent and Learning Agents
 - Distributed Optimization and Machine Learning
 - Introduction to Stochastic Optimization
 - Introduction to Machine Learning
+
 ### Mathematics
 - Applied Linear Algebra
 - Probability and Random Processes
