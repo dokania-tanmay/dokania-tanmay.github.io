@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /courses/
-title: notes
+title: courses
 description: My course notes and about other courses done.
 nav: true
 nav_order: 5
