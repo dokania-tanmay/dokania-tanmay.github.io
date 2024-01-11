@@ -5,7 +5,7 @@ permalink: /projects/
 description: <i>This page is still under construction.</i>
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [research, course]
 horizontal: false
 ---
 
