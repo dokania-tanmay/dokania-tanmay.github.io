@@ -18,6 +18,9 @@ horizontal: true
   {%- assign categorized_projects = site.projects | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
+  {% if category == "research" }
+
+
   {% if category == "research" -%}
   <div class="container">
     <div class="row row-cols-1">
