@@ -12,13 +12,13 @@ The aim of the project was to do modifications to [Nanosaur](https://nanosaur.ai
 The high level idea was to use the data from gas sensors and localization from VSLAM to find locations with a higher gas concentration, which corresponds to regions close to the leakage. 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/nano/web_ss.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/web_ss.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/nano/slam.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/slam.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/nano/front_right_con.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/front_right_con.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 Please find details in our [GitHub repository.](https://github.com/dokania-tanmay/nanosaur_gas_detection)
