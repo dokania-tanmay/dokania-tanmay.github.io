@@ -25,4 +25,4 @@ Please find details in our [GitHub repository.](https://github.com/dokania-tanma
 
 We were awarded the Best Project Award for our work, and it was featured on [Wadhwani Electronics Laboratory's YouTube Channel!](https://youtu.be/vspevFlvx1A)
 
-**Authors**: Tanmay Dokania, Navneet, Aziz Shameem
+**Authors**: Tanmay Dokania, [Navneet](https://navneet-13.github.io/), [Aziz Shameem](https://aziz-shameem.github.io/)
