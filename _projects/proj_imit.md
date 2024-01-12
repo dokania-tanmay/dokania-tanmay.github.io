@@ -7,4 +7,4 @@ importance: 2
 category: research
 related_publications: 
 ---
-Guide: Prof. Florian Shkurti, University of Toronto.
+<i>Guide:</i> Prof. Florian Shkurti, University of Toronto.

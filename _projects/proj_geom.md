@@ -7,4 +7,4 @@ importance: 1
 category: research
 related_publications: 
 ---
-Guide: Prof. Ravi N. Banavar and Prof. Zhong-ping Jiang
+<i>Guide:</i> Prof. Ravi N. Banavar and Prof. Zhong-ping Jiang
