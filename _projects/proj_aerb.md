@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stability Analysis of Linearized Lumped Nuclear Reactor
+title: Stability Analysis of Nuclear Reactor
 description: Analysis of approaches for the control of Control Moment Gyroscopes for avoidance of singularities
 img: assets/img/aerb.png
 importance: 5
