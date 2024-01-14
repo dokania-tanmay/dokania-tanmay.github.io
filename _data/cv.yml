@@ -55,20 +55,8 @@
         - Guide - Dr. Abhilash Mony
         - To analyze existing angular momentum-based approaches for singularity avoidance of Control Moment Gyrscopes, which are observed when the space of torque inputs reduces dimensionally
 
-
 - title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Theory:</u> Geometric and Learning-based Control, State Estimation, Stochastic and Distributed optimization.
+    - <u>Application:</u> Robotics, Power Systems, Decentralized systems, Autonomous vehicles, Cyber-Physical Systems
