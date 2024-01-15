@@ -19,3 +19,5 @@ Guide: [Prof. Dwaipayan Mukherjee](https://www.ee.iitb.ac.in/web/people/dwaipaya
 <div class="caption">
     Controller simulation based on safety constraints inforced using a barrier function and solved as an quadratic program.
 </div>
+
+<i> I worked on this project with [Dhruv Shah](https://scholar.google.com/citations?user=iPZ9gTYAAAAJ&hl=en)</i>
