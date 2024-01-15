@@ -12,3 +12,11 @@ Guide: [Prof. Dwaipayan Mukherjee](https://www.ee.iitb.ac.in/web/people/dwaipaya
 - Learned about concepts of bearing rigidity, minimal rigidity, and persistence for formations
 - Designed bearing-based barrier functions to develop controller filters after partitioning the regions
 - Developed ideas of smooth “AND” and “OR” for combining different barrier functions
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/rnd.png" title="edge safety" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    A suitable set of suitable unions and intersections used to define feasible region of an obstacle.
+</div>

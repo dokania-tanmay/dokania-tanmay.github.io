@@ -12,3 +12,12 @@ Guide: [Prof. Dwaipayan Mukherjee](https://www.ee.iitb.ac.in/web/people/dwaipaya
 - Achieved a 20dB attenuation at 100Hz with gain and phase margin of 10.2 dB and 50o respectively
 - Designed a PID controller for a line-following robot to cover a track with redundant turnings in 30 secs
 - Designed a set point tracking controller for a DC motor after smoothening the feedback
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/contlab.jpg" title="line follower" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Line follower robot
+</div>

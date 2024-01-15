@@ -12,3 +12,11 @@ related_publications:
 - Examined subspace projection techniques of learning dynamics to impose stability architecturally
 - Recreated the results of in-Distribution Barrier Function (iDBF) on a custom toy problem
 - Improved the safety framework of iDBF by generating contrastive distribution using Normalizing Flows
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/barrier.png" title="barrier function" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The barrier we were able to learn based on modifications to the in-Distribution Barrier Function
+</div>
