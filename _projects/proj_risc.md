@@ -3,7 +3,7 @@ layout: page
 title: Design of Processors
 description: Design and Simulation of a 6-stage pipelined microprocessor and multicycle microprocessor 
 img: assets/img/risc.png
-importance: 4
+importance: 5
 category: course
 related_publications: 
 ---

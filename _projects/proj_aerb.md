@@ -3,7 +3,7 @@ layout: page
 title: Stability Analysis of Nuclear Reactor
 description: Analysis of approaches for the control of Control Moment Gyroscopes for avoidance of singularities
 img: assets/img/aerb.png
-importance: 5
+importance: 6
 category: course
 related_publications: 
 ---
