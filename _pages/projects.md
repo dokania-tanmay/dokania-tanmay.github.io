@@ -2,13 +2,13 @@
 layout: page
 title: projects
 permalink: /projects/
-description: <i>This list is non-exhaustive. Look at [my CV](https://dokania-tanmay.github.io/assets/pdf/tanmay_cv.pdf) for other projects. Feel free to reach out to me if you want to know more about any of the projects.</i>
+description:
 nav: true
 nav_order: 2
 display_categories: [research, course]
 horizontal: true
 ---
-
+<i>This list is non-exhaustive. Look at [my CV](https://dokania-tanmay.github.io/assets/pdf/tanmay_cv.pdf) for other projects. Feel free to reach out to me if you want to know more about any of the projects.</i>
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <i>This page is still under construction.</i>
+subtitle: my homepage
 
 profile:
   align: right
