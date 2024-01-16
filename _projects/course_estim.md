@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Estimation on Lie Groups
-description: Hazardous Gas Leakage Detection using Nanosaur and Jetson Nano.
+description: Simulation and analysis of different novel approaches for problems of pose and other estimation problems.
 img: assets/img/esti.PNG
 importance: 4
 category: course
 related_publications: 
 ---
+<i>Guide:</i> [Prof. Ravi N. Banavar](https://sites.google.com/view/ravibanavar/home), IIT Bombay.
 - Learned about the use of equivariant filters for highly nonlinear problems like Visual SLAM
 - Simulated and analysed Kalman filters and a gradient-based rotational estimator for a satellite
 <div class="row">
