@@ -9,15 +9,16 @@
 - title: Education
   type: time_table
   contents:
+    - title: PhD in Robotics
+      institution: Georgia Institute of Technology
+      year: 2024-2029
+      
     - title: Bachelors of Technology
       institution: Indian Institute of Technology, Bombay
-      year: 2024
+      year: 2020-2024
       description:
-        - Electrical Engineering (GPA 9.90/10)
-        - title: Minor
-          contents:
-            - Systems and Control (SysCon)
-            - Machine Intelligence and Data Science (CMInDS)
+        - Electrical Engineering (GPA 9.91/10)
+        - title: Honors
 
 
 - title: Experience

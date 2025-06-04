@@ -26,9 +26,9 @@ Disclaimer: *The notes have not been verified by the Professors and could have e
 - Nonlinear Dynamical Systems
 - Estimation and Identification
 - Estimation on Lie groups
-- Differential Geometric Methods in Control *(in progress)*
-- Optimal Control *(in progress)*
-- Social Learning and Herding *(in progress)*
+- Differential Geometric Methods in Control
+- Optimal Control
+- Social Learning and Herding
 - Analytical and Geometric Dynamics
 
 ### Optimization and Learning

@@ -16,7 +16,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hey! I am a final year undergraduate at the Electrical Engineering Department of Indian Institute of Technology, Bombay. I am pursuing a Bachelor of Technology (B.Tech.) in [Electrical Engineering](https://www.ee.iitb.ac.in/web/index.php), with a dual minor in [C-MInDS](https://www.minds.iitb.ac.in/) and [SysCon](https://www.sc.iitb.ac.in/).
+Hey! I am a first-year PhD student in Robotics at [Georgia Institute of Technology](https://research.gatech.edu/robotics). I completed my Bachelors (B.Tech.) in [Electrical Engineering](https://www.ee.iitb.ac.in/web/index.php), with honours at [Indian Institute of Technology, Bombay](https://www.iitb.ac.in/) where I where I was honored with the Insitute Silver Medal for achieving Department Rank 1.
 
 My research interests lies in the use of learning-based control for dynamical systems. I am inclined for the incorporation of ideas from geometry for the design of controllers and estimators which are safe, scalable and efficient.
 
