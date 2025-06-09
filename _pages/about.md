@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hey! I am a first-year PhD student in Robotics at [Georgia Institute of Technology](https://research.gatech.edu/robotics). I completed my Bachelors (B.Tech.) in [Electrical Engineering](https://www.ee.iitb.ac.in/web/index.php), with honours at [Indian Institute of Technology, Bombay](https://www.iitb.ac.in/) where I was honored with the Insitute Silver Medal for achieving Department Rank 1.
 
-My research interests lies in the use of learning-based control for dynamical systems. I am inclined for the incorporation of ideas from geometry for the design of controllers and estimators which are safe, scalable and efficient.
+I like math. My research interests lies in the use of learning-based control for dynamical systems. I am inclined for the incorporation of ideas from geometry for the design of controllers and estimators which are safe, scalable and efficient.
 
 I have been fortunate enough to collaborate with [Prof. Ravi Banavar](https://sites.google.com/view/ravibanavar/home) on the control of nonholonomic agents using ideas from geometry, with [Prof. Florian Shkurti](https://www.cs.toronto.edu/~florian/) on formulating safety guarantees for imitation learning, and with [Prof. Dwaipayan Mukherjee](https://www.ee.iitb.ac.in/web/people/dwaipayan-mukherjee/) on formation control for collision avoidance based on bearing measurements.
 

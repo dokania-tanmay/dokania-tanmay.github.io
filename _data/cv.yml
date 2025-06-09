@@ -17,8 +17,8 @@
       institution: Indian Institute of Technology, Bombay
       year: 2020-2024
       description:
-        - Electrical Engineering (GPA 9.91/10)
-        - title: Honors
+        Electrical Engineering with Honors (GPA 9.91/10)
+        
 
 
 - title: Experience
@@ -61,3 +61,10 @@
   contents:
     - <u>Theory:</u> Geometric and Learning-based Control, State Estimation, Stochastic and Distributed optimization.
     - <u>Application:</u> Robotics, Power Systems, Decentralized systems, Autonomous vehicles, Cyber-Physical Systems
+
+- title: Skills
+  type: list
+  contents:
+    - <u>Programming:</u> Python, C++, MATLAB, CUDA
+    - <u>Tools:</u> ROS2, ROS, Git, LaTeX
+    - <u>Libraries:</u> NumPy, SciPy, PyTorch, TensorFlow
