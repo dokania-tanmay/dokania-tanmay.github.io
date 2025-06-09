@@ -9,11 +9,13 @@ nav_order: 5
 
 ## Teaching Assistantship
 I have been a teaching assistant for the following courses:
+- ```ECE 3741``` Instrumentation and Electronics Laboratory *for Summer 2025*
 - ```MA 106``` Linear Algebra *for Spring 2022-23*
 - ```CH 107``` Physical Chemistry *for Spring 2022-23*
 
 ## Course Notes
 Below are some notes that I have prepared for certain courses:
+- ```BMED 8813``` Robotics: *Under [Prof. Jaydev Desai](https://bme.gatech.edu/bme/faculty/Jaydev-Desai)* (notes: [pdf](https://dokania-tanmay.github.io/assets/pdf/bmed8813.pdf))
 - ```EE 605``` Error Correcting Codes: *Under [Prof. Nikhil Karamchandani](https://sites.google.com/site/nikhilkaram/)* (notes: [pdf](https://dokania-tanmay.github.io/assets/pdf/ee605.pdf), [sdocx](https://dokania-tanmay.github.io/assets/pdf/ee605.sdocx))
 - ```EE 638``` Estimation and Identification: *Under [Prof. Debraj Chakraborty](https://www.ee.iitb.ac.in/wiki/faculty/dc)* (notes: [pdf](https://dokania-tanmay.github.io/assets/pdf/ee638.pdf), [sdocx](https://dokania-tanmay.github.io/assets/pdf/ee638.sdocx))
 - ```SC 631``` Games and Information: *Under [Prof. Ankur Kulkarni](https://www.sc.iitb.ac.in/~ankur/)* (notes: [pdf](https://dokania-tanmay.github.io/assets/pdf/sc631.pdf), [sdocx](https://dokania-tanmay.github.io/assets/pdf/sc631.sdocx))
@@ -30,6 +32,8 @@ Disclaimer: *The notes have not been verified by the Professors and could have e
 - Optimal Control
 - Social Learning and Herding
 - Analytical and Geometric Dynamics
+- Advanced Nonlinear Control Theory
+- Networked and Multi-agent Control
 
 ### Optimization and Learning
 - Foundations of Intelligent and Learning Agents
@@ -40,6 +44,7 @@ Disclaimer: *The notes have not been verified by the Professors and could have e
 ### Mathematics
 - Applied Linear Algebra
 - Probability and Random Processes
+- Differential Geometry
 - Complex Analysis
 - Calculus
 - Differential Equations
