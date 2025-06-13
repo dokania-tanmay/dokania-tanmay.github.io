@@ -1,7 +1,8 @@
-github_users:
-  - dokania-tanmay
+# github_users:
+#   - dokania-tanmay
 
 github_repos:
+  - RowanRama/HANDS
   - dokania-tanmay/nanosaur_gas_detection
   - dokania-tanmay/RISC_MulticycleProcessor
   - dokania-tanmay/lie_group_estimation

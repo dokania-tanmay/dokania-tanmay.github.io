@@ -24,6 +24,13 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Graduate Research Assistant
+      institution: Georgia Institute of Technology
+      year: 2024-25
+      description:
+        - Project - Learning Set Representation using Kernel Functions
+        - Guide - Prof. Particio Vela
+        - Generate a function whose level set gives a boundary between the given in- and out-samples using a linear optimizer.
     - title: Research Assistant
       institution: Indian Institute of Technology, Bombay
       year: 2022-23
