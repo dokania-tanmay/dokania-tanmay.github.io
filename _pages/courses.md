@@ -15,6 +15,7 @@ I have been a teaching assistant for the following courses:
 
 ## Course Notes
 Below are some notes that I have prepared for certain courses:
+- ```ECE 6563``` Networked Control: *Under [Prof. Sam Coogan](https://coogan.ece.gatech.edu/)* (notes: [pdf](https://dokania-tanmay.github.io/assets/pdf/ece6563.pdf))
 - ```BMED 8813``` Robotics: *Under [Prof. Jaydev Desai](https://bme.gatech.edu/bme/faculty/Jaydev-Desai)* (notes: [pdf](https://dokania-tanmay.github.io/assets/pdf/bmed8813.pdf))
 - ```EE 605``` Error Correcting Codes: *Under [Prof. Nikhil Karamchandani](https://sites.google.com/site/nikhilkaram/)* (notes: [pdf](https://dokania-tanmay.github.io/assets/pdf/ee605.pdf), [sdocx](https://dokania-tanmay.github.io/assets/pdf/ee605.sdocx))
 - ```EE 638``` Estimation and Identification: *Under [Prof. Debraj Chakraborty](https://www.ee.iitb.ac.in/wiki/faculty/dc)* (notes: [pdf](https://dokania-tanmay.github.io/assets/pdf/ee638.pdf), [sdocx](https://dokania-tanmay.github.io/assets/pdf/ee638.sdocx))
