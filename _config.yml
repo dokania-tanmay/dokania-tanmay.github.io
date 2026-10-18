@@ -8,7 +8,7 @@ middle_name:
 last_name: Dokania
 email: dokania.tanmay@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Electrical Engineering Undergraduate at IIT Bombay, interested in research on learning and control.
+  Third-year PhD student in Robotics in the Aerospace Engineering department at Georgia Tech, working in Astro-X Lab.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. 
@@ -72,7 +72,7 @@ x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: tanmay-dokania-1b32901bb # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: Dhpspf4AAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
@@ -271,8 +271,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Dokania]
+  first_name: [Tanmay, T.]
 
   style: apa
   locale: en

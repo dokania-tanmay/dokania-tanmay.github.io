@@ -12,6 +12,9 @@
     - title: PhD in Robotics
       institution: Georgia Institute of Technology
       year: 2024-2029
+      description:
+        - Aerospace Engineering department; Astro-X Lab
+        - Third-year PhD student
       
     - title: Bachelors of Technology
       institution: Indian Institute of Technology, Bombay
@@ -63,11 +66,34 @@
         - Guide - Dr. Abhilash Mony
         - To analyze existing angular momentum-based approaches for singularity avoidance of Control Moment Gyrscopes, which are observed when the space of torque inputs reduces dimensionally
 
-- title: Academic Interests
+- title: Publications
   type: list
   contents:
-    - <u>Theory:</u> Geometric and Learning-based Control, State Estimation, Stochastic and Distributed optimization.
-    - <u>Application:</u> Robotics, Power Systems, Decentralized systems, Autonomous vehicles, Cyber-Physical Systems
+    - >
+      Tanmay Dokania and Yashwanth Kumar Nakka.
+      <code>socx</code>: GPU-Accelerated Chance-Constrained Stochastic Optimal Control using JAX.
+      Submitted to IEEE Robotics and Automation Letters; under review.
+    - >
+      Sachin Sunil Kelkar, Tanmay Dokania, and Yashwanth Kumar Nakka.
+      <a href="https://arxiv.org/abs/2608.11175">Risk-Aware Kinodynamic Motion Planning Under Uncertainty For Safe Navigation on Planetary Environments</a>.
+      Submitted to IEEE Robotics and Automation Letters; under review.
+    - >
+      Tanmay Dokania and Yashwanth Kumar Nakka.
+      <a href="https://ieeexplore.ieee.org/document/11554308">Exact and Approximate Convex Reformulation of Linear Stochastic Optimal Control With Chance Constraints</a>.
+      IEEE Control Systems Letters, vol. 10, pp. 787–792, 2026. DOI: 10.1109/LCSYS.2026.3701076.
+      Best student poster, annual DCL student symposium (2026).
+    - >
+      Tanmay Dokania and Yashwanth Kumar Nakka.
+      <a href="https://arxiv.org/abs/2605.05575">Maximal Controlled Invariant-MPC: Enhancing Feasibility and Reducing Conservatism through Terminal CBF Constraint in Safety-Critical Control</a>.
+      Accepted at AIAA SciTech Forum 2027. Finalist, AIAA GNC Graduate Student Paper Competition.
+
+- title: Professional Service
+  type: list
+  contents:
+    - Reviewer for IEEE Robotics and Automation Letters (RA-L)
+    - Reviewer for IEEE Control Systems Letters (LCSS)
+    - Reviewer for the <a href="https://www.isairas-isparo.de/">iSpaRo conference</a>
+    - Reviewer for the AIAA SciTech Forum
 
 - title: Skills
   type: list
