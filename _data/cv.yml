@@ -71,7 +71,7 @@
   contents:
     - >
       Tanmay Dokania and Yashwanth Kumar Nakka.
-      <code>socx</code>: GPU-Accelerated Chance-Constrained Stochastic Optimal Control using JAX.
+      <a href="https://arxiv.org/abs/2610.40427"><code>socx</code>: GPU-Accelerated Chance-Constrained Stochastic Optimal Control using JAX</a>.
       Submitted to IEEE Robotics and Automation Letters; under review.
     - >
       Sachin Sunil Kelkar, Tanmay Dokania, and Yashwanth Kumar Nakka.
