@@ -1,9 +1,12 @@
-{%- assign img_path = include.path | remove: ".jpg" | remove: ".jpeg" | remove: ".png" | remove: ".tiff" -%}
+{%- assign img_extension = include.path | split: "." | last | prepend: "." -%}
+{%- assign normalized_extension = img_extension | downcase -%}
+{%- assign img_path_size = include.path.size | minus: img_extension.size -%}
+{%- assign img_path = include.path | slice: 0, img_path_size -%}
 
 <figure>
 
   <picture>
-    {% if site.imagemagick.enabled %}
+    {% if site.imagemagick.enabled and site.imagemagick.input_formats contains normalized_extension %}
     {% for i in site.imagemagick.widths -%}
       <source
         class="responsive-img-srcset"

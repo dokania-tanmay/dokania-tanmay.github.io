@@ -9,10 +9,23 @@ remain published.
 
 ## Build and deploy
 
-With Ruby and the Gemfile dependencies installed, run:
+CI uses Ubuntu 24.04 and the latest Ruby 3.2 patch release. `Gemfile.lock`
+records the tested gem versions, and PurgeCSS is pinned to 8.0.0.
+
+Ruby 3.2.11 is installed locally in this checkout's ignored `vendor/ruby/`
+directory. To use it in a new shell, run from the repository root:
 
 ```sh
+export PATH="$PWD/vendor/ruby/bin:$PATH"
+```
+
+With Ruby 3.2 available, install the locked dependencies and build:
+
+```sh
+bundle config set --local path vendor/bundle
+bundle install
 JEKYLL_ENV=production bundle exec jekyll build --lsi
+npx --yes purgecss@8.0.0 -c purgecss.config.js
 ```
 
 Push the reviewed changes to the existing `main` or `master` branch to run the
