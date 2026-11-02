@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repos
-description: 
+description: Software and research repositories by Tanmay Dokania and collaborators.
 nav: true
 nav_order: 10
 ---

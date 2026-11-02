@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: my homepage
+subtitle: Robotics PhD student at Georgia Tech
 
 profile:
   align: right

@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: <i> This list is non-exhaustive. </i>
+description: Research and course projects by Tanmay Dokania in robotics, control, learning, and estimation.
 nav: true
 nav_order: 2
 display_categories: [research, course]
